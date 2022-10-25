@@ -26,3 +26,11 @@ function decrement() {
 function updateIncrement() {
     currentInc = parseInt(document.getElementById("inc").value)
 }
+function reset() {
+    currentInc = 1
+    roundScore = 0
+    runningTotal = 0
+    document.getElementById("inc").value = currentInc
+    totalEl.textContent = runningTotal
+    scoreEl.textContent = roundScore
+}
