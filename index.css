@@ -69,6 +69,7 @@ button {
     color: rgb(224,224,224);
     border: none;
     padding-inline-start: 8px;
+    font-family: 'Space Grotesk',sans-serif;
 }
 .inc {
     display: inline;
