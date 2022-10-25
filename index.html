@@ -12,7 +12,11 @@
             <button id="save-btn" onclick="save()">SAVE</button>
             <h3>Total:</h3>
             <h2 id="total-el">0</h2>
-            <div class="inc-ctrl">
+            <div id="rounds-info">
+                <h5 class="rounds">Scored Rounds:</h5>
+                <h5 class="rounds" id="rounds-el">0</h5>
+            </div>
+            <div>
                 <h5 class="inc">Score by:</h5>
                 <input id="inc" class="inc" type="number" onchange="updateIncrement()" value="1">
             </div>

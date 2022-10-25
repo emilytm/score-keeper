@@ -88,3 +88,10 @@ button {
 .inc {
     display: inline;
 }
+
+.rounds {
+    display: inline;
+}
+#rounds-info {
+    margin-bottom: 8px;
+}
