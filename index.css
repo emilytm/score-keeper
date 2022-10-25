@@ -70,6 +70,7 @@ button {
     border: none;
     padding-inline-start: 8px;
     font-family: 'Space Grotesk',sans-serif;
+    font-size: 10px;
 }
 .inc {
     display: inline;
