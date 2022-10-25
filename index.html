@@ -1,0 +1,24 @@
+<html>
+    <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="scores">
+            <h1>Score Keeper</h1>
+            <h3>Round:</h3>
+            <h2 id="score-el">0</h2>
+            <button id="decrement-btn" onclick="decrement()">-</button>
+            <button id="increment-btn" onclick="increment()">+</button>
+            <button id="save-btn" onclick="save()">SAVE</button>
+            <h3>Total:</h3>
+            <h2 id="total-el">0</h2>
+            <div class="inc-ctrl">
+                <h5 class="inc">Score by:</h5>
+                <input id="inc" class="inc" type="number" onchange="updateIncrement()" value="1">
+            </div>
+        </div>
+        <script src="index.js">
+        
+        </script>
+    </body>
+</html>
