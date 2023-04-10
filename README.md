@@ -2,6 +2,8 @@
 
 Score Keeper started as part of the 'Making Websites Interactive' module in Scrimba's Front-end Developer Career Path. We were tasked with building a score keeping app and I made mine customized to some card games that my friends and I used to play. It is basic but works well enough as a customizable way to keep track of your score for games of all kinds. 
 
+See this project live [here](https://eloquent-granita-98fd11.netlify.app/).
+
 ## About Scrimba (In Scrimba's words)
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
