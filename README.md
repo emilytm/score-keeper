@@ -4,7 +4,7 @@ Score Keeper started as part of the 'Making Websites Interactive' module in Scri
 
 See this project live [here](https://eloquent-granita-98fd11.netlify.app/).
 
-## About Scrimba (In Scrimba's words)
+#### About Scrimba (In Scrimba's words)
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
 If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
